@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>I'm Sorry ❤️</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="hearts"></div>
+
+<div class="container">
+    <h1>I am Sorry 💔</h1>
+
+    <img src="https://media.tenor.com/W6lLzT4XcXUAAAAi/sad-teddy.gif" class="teddy">
+
+    <button onclick="nextPage()">Tap here 🥺</button>
+</div>
+
+<script>
+function nextPage(){
+    window.location.href = "page2.html";
+}
+</script>
+
+</body>
+</html>
